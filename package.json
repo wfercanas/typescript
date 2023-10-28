@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfercanas/typescript.git"
+  },
+  "author": "wfercanas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfercanas/typescript/issues"
+  },
+  "homepage": "https://github.com/wfercanas/typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
